@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+*.iml
+build/
+app/build/
+local.properties
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+.DS_Store
+.vscode/
